@@ -17,9 +17,9 @@ $('.Wrapper').scrollMask({height: 100500});
 
 Все остальное будет прокручиваться кнопками Назад / Вперед, текст по умолчанию. Можно менять через nextText, prevText
 
-`$('.Wrapper').scrollMask({
-   height: 100,
-   autoHeight: false,
-   nextText: 'Vpered',
-   prevText: 'Nazad'
-});`
+   `$('.Wrapper').scrollMask({
+      height: 100,
+      autoHeight: false,
+      nextText: 'Vpered',
+      prevText: 'Nazad'
+   });`
